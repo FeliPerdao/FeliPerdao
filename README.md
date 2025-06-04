@@ -5,7 +5,7 @@
 - 👀 I’m interested in building smart systems that automate boring tasks, optimize industrial processes, and trade crypto with style.  
 - 🌱 I’m currently learning advanced machine learning for time-series prediction, full-stack development with Next.js, and space mission simulation tools (yes, I’m serious).  
 - 💞️ I’m looking to collaborate on projects that mix engineering, data, and a little chaos — from Python apps to space trajectories.  
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/filipeperdao)** or climbing a moutain Mendoza.  
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/filipeperdao)** or climbing a moutain in Mendoza.  
 - ⚡ Fun fact: My trading bot has a better sense of timing than I do.  
 
 ---
@@ -20,3 +20,5 @@
 ---
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=FeliPerdao&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FeliPerdao&layout=compact)
+
